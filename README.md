@@ -4,7 +4,6 @@ My cosmic ray muon research project notebook I did for college graduation resear
 
 We study the energy-loss spectra of muons incident on our detector.
 A preview of some of the results are shown below.
-Paper preview Screenshot
 
 
 
