@@ -1,8 +1,9 @@
 # CosmicRayMuons
-My cosmic ray muon research project notebook I did for college graduation research.
+My cosmic ray muon-decay research project notebook I did for college graduation research.
+Demonstrates algorithm design, data analysis techniques, and python programming skill.
 
 
-We study the energy-loss spectra of muons incident on our detector.
+I studied the energy-loss spectra of muons incident on our detector using a shielded cosmic ray detector in the basement of Ursinus College over several weeks.
 A preview of some of the results are shown below.
 
 
